@@ -1,0 +1,13 @@
+.main{
+    background-color: aquamarine;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 150px;
+    padding: 100px;
+    text-justify: center;
+}
+body{
+    background-color: gray;
+    text-justify: center;
+    text-align: center;
+}
